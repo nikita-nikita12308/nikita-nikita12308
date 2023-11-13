@@ -11,4 +11,6 @@
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/nikita123321?theme=dark?border=0&radius=20)
+
 <h3>Message me via telegram — <code>rifinann</code></h3>
