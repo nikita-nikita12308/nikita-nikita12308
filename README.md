@@ -12,4 +12,4 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/nikita123321?theme=dark?border=0&radius=20)
 
-<h3>Message me via telegram — <code>rifinann</code></h3>![img](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+<h3>Message me via telegram — <code>rifinann</code><img src="{[BadgeURLHere}](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></h3>
