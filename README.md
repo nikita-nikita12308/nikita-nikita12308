@@ -1,4 +1,4 @@
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -22,4 +22,4 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/nikita123321?theme=dark?border=0&radius=20)
 
-<h3>Message me via telegram — <code>rifinann</code></h3>
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)<h3>Message me via telegram — <code>rifinann</code></h3>
